@@ -1,7 +1,7 @@
 ### To-do list
 
 - [ ] Change feature image size
-- [x] Google Analytics
+- [✓] Google Analytics
 - [ ] Add 'About me' section
 - [ ] Center 404 page content
 - [ ] Search on left panel
